@@ -44,8 +44,8 @@ I approach each project with the aim of combining aesthetic design with function
 
 ## 🚀 **Highlighted Projects**
 
-### 💼 [Personal Portfolio Website(old)](https://szadolowski.netlify.app/)
-[Personal Portfolio Website (NEW|Work in progress) ]https://github.com/Szadolowski/PortfolioWebsite
+### 💼 [Personal Portfolio Website(old)](https://github.com/Szadolowski/szadolowskiWeb)
+[Personal Portfolio Website (NEW|Work in progress) ](https://github.com/Szadolowski/PortfolioWebsite)
 
 A clean and responsive portfolio showcasing my web development skills. Developed using **React.js**, **Tailwind CSS**, and **Framer Motion**, this site highlights smooth animations and a mobile-first design philosophy.
 
