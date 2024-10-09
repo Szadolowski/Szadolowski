@@ -44,7 +44,8 @@ I approach each project with the aim of combining aesthetic design with function
 
 ## 🚀 **Highlighted Projects**
 
-### 💼 [Personal Portfolio Website](https://szadolowski.netlify.app/)
+### 💼 [Personal Portfolio Website(old)](https://szadolowski.netlify.app/)
+[Personal Portfolio Website (NEW|Work in progress) ]https://github.com/Szadolowski/PortfolioWebsite
 
 A clean and responsive portfolio showcasing my web development skills. Developed using **React.js**, **Tailwind CSS**, and **Framer Motion**, this site highlights smooth animations and a mobile-first design philosophy.
 
@@ -61,7 +62,7 @@ A clean and responsive portfolio showcasing my web development skills. Developed
 
 ---
 
-### 🛠️ [User Management Dashboard](https://github.com/Szadolowski/user-management)
+### 🛠️ [User Management Dashboard](https://github.com/Szadolowski/RafalCurzydloProject)
 
 A dashboard application built with **Redux Toolkit** and **TypeScript**, offering user filtering, sorting, and management capabilities. It demonstrates my ability to handle state management in complex applications.
 
