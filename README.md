@@ -120,4 +120,3 @@ Outside of programming, I'm passionate about:
 ## 📊 **GitHub Stats**
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Szadolowski&show_icons=true&theme=radical)](https://github.com/Szadolowski)
-[![LeetCode Stats](https://leetcode.card.workers.dev/Szadolowski?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/Szadolowski/)
