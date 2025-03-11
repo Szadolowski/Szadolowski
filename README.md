@@ -32,12 +32,12 @@ I approach each project with the aim of combining aesthetic design with function
 ### Tools:
 
 ![Git](https://img.shields.io/badge/Git-2.30.0-orange?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/node.js-11.2.0-CC3534?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-11.2.0-CC3534?style=for-the-badge&logo=npm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-1.52.1-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Backend (Basic Knowledge):
 
-![Static Badge](https://img.shields.io/badge/node.js-23.9.0-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.JS](https://img.shields.io/badge/node.js-23.9.0-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.1-blue?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-23-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
