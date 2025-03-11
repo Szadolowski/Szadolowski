@@ -16,74 +16,63 @@ I approach each project with the aim of combining aesthetic design with function
 
 <!-- Odznaki dla wyraźnego podkreślenia umiejętności -->
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.5.4-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-16.13.1-blue?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2.0.1-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-4.0.5-purple?style=for-the-badge&logo=redux&logoColor=white)
+### Core Technologies
+
+![HTML](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-ES14-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/react-19.0.0-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/TailwindCSS-4.0-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Basic Knowledge Of
+
+![TypeScript](https://img.shields.io/badge/typescript-5.8-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-5.0.1-purple?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Tools:
 
 ![Git](https://img.shields.io/badge/Git-2.30.0-orange?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/node.js-11.2.0-CC3534?style=for-the-badge&logo=npm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-1.52.1-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Backend (Basic Knowledge):
 
-![PHP](https://img.shields.io/badge/PHP-7.4.3-blue?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/node.js-23.9.0-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.1-blue?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-23-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Platforms:
 
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-BigSur-lightgrey?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows%2010-blue?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
-## 🚀 **Highlighted Projects**
+## 🧑‍💼 **EMPLOYMENT HISTORY**
 
-### 💼 [Personal Portfolio Website(old)](https://github.com/Szadolowski/szadolowskiWeb)
-[Personal Portfolio Website (NEW|Work in progress) ](https://github.com/Szadolowski/PortfolioWebsite)
+- **IT specialist, network administrator, programmer** (10.2024 - present)
 
-A clean and responsive portfolio showcasing my web development skills. Developed using **React.js**, **Tailwind CSS**, and **Framer Motion**, this site highlights smooth animations and a mobile-first design philosophy.
+  _Laskopol Sp. z o.o., Poland, Limanowa_
 
-<!-- Ikonki, aby były subtelniejsze -->
+  - _Designing, administering, and configuring internet networks_
+  - _Analyzing data and managing databases_
+  - _Managing internal company systems_
+  - _Developing scripts and programs for business needs_
+  - _Servicing and repairing computers and hardware_
 
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+- **Office internship** (05.2024 - 10.2024)
 
-> **Key Features**:
->
-> - Framer Motion animations for smooth transitions.
-> - Mobile-first design ensuring responsiveness across all devices.
-> - Modular components using Tailwind CSS for efficient styling.
+  _GM PROJEKT, Poland, Limanowa_
 
----
+  - _Developing complex applications and scripts using ReactJS and TailwindCSS_
+  - _Analyzing data using spreadsheets and databases_
+  - _Diagnosing and repairing electronic devices and internet networks_
 
-### 🛠️ [User Management Dashboard](https://github.com/Szadolowski/RafalCurzydloProject)
-
-A dashboard application built with **Redux Toolkit** and **TypeScript**, offering user filtering, sorting, and management capabilities. It demonstrates my ability to handle state management in complex applications.
-
-![Redux](https://img.icons8.com/color/48/000000/redux.png)
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-
-> **Highlights**:
->
-> - Redux Toolkit for efficient state handling.
-> - Full TypeScript integration for type safety.
-> - Dynamic filtering and sorting of user data.
-
----
-
-### 🎮 [Tic-Tac-Toe Game](https://github.com/Szadolowski/tic-tac-toe)
-
-A fun, interactive Tic-Tac-Toe game built with **React.js**. It features a logging system that tracks each player's moves and declares the winner in real-time.
-
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-
-> **Technologies Used**: React.js, CSS, State Management
+- **Semi-Commercial Experience**
+  - _Building designs and web applications for non-commercial community projects_
+  - _Creating school projects based on HTML, JS, ReactJS and CSS_
+  - _Creating websites for personal needs for family and friends_
 
 ---
 
