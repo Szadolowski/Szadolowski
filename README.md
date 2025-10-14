@@ -18,10 +18,11 @@ I approach each project with the aim of combining aesthetic design with function
 
 ### Core Technologies
 
+![ReactJS](https://img.shields.io/badge/react-19.0.0-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-ES14-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/react-19.0.0-61DBFB?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/TailwindCSS-4.0-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Basic Knowledge Of
