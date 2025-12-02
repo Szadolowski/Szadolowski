@@ -12,6 +12,12 @@ I approach each project with the aim of combining aesthetic design with function
 
 ---
 
+## 🔭 **Currently Working On**
+
+- **[Company Website]**: Developing a corporate website for Laskopol Sp. z o.o. using Next.js and TailwindCSS.
+
+---
+
 ## 🛠️ **Tech Stack**
 
 <!-- Odznaki dla wyraźnego podkreślenia umiejętności -->
