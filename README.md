@@ -18,29 +18,28 @@ I approach each project with the aim of combining aesthetic design with function
 
 ### Core Technologies
 
-![ReactJS](https://img.shields.io/badge/react-19.0.0-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+![ReactJS](https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-ES14-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
-![TailwindCss](https://img.shields.io/badge/TailwindCSS-4.0-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/TailwindCSS-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Basic Knowledge Of
 
-![TypeScript](https://img.shields.io/badge/typescript-5.8-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-5.0.1-purple?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools:
 
-![Git](https://img.shields.io/badge/Git-2.30.0-orange?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-11.2.0-CC3534?style=for-the-badge&logo=npm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-1.52.1-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CC3534?style=for-the-badge&logo=npm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Backend (Basic Knowledge):
 
-![Node.JS](https://img.shields.io/badge/node.js-23.9.0-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.1-blue?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-23-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.JS](https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Platforms:
 
@@ -120,5 +119,7 @@ Outside of programming, I'm passionate about:
 
 ## 📊 **GitHub Stats**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Szadolowski&show_icons=true&theme=radical)](https://github.com/Szadolowski)
+![](https://github-readme-stats.vercel.app/api?username=Szadolowski&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Szadolowski&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Szadolowski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Codewars](https://github.r2v.ch/codewars?user=Szadolowski&stroke=COLOR)
