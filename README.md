@@ -30,9 +30,6 @@ I approach each project with the aim of combining aesthetic design with function
 ![CSS](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/TailwindCSS-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Basic Knowledge Of
-
 ![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools:
