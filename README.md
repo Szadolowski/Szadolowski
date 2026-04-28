@@ -47,7 +47,7 @@ I approach each project with the aim of combining aesthetic design with function
 ### Platforms:
 
 ![Linux](https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows%2010-blue?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
