@@ -11,13 +11,13 @@ I approach each project with the aim of combining aesthetic design with function
 > "Development isn't just about writing code – it's about building experiences."
 
 ---
-
+<!--
 ## 🔭 **Currently Working On**
 
 - **[Company Website]**: Developing a corporate website for Laskopol Sp. z o.o. using Next.js and TailwindCSS.
 
 ---
-
+-->
 ## 🛠️ **Tech Stack**
 
 <!-- Odznaki dla wyraźnego podkreślenia umiejętności -->
@@ -51,7 +51,7 @@ I approach each project with the aim of combining aesthetic design with function
 ![MacOS](https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
-
+<!--
 ## 🧑‍💼 **EMPLOYMENT HISTORY**
 
 - **IT specialist, network administrator, programmer** (10.2024 - present)
@@ -78,7 +78,7 @@ I approach each project with the aim of combining aesthetic design with function
   - _Creating websites for personal needs for family and friends_
 
 ---
-
+-->
 ## 📚 **Education**
 
 - **Akademia Nauk Stosowanych, Nowy Sącz** (10.2024 - Present)
